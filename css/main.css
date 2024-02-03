@@ -1,0 +1,24 @@
+.drop-zone {
+    background-color: #dee7ff;
+    margin-bottom: 10px;
+    padding: 15px;
+    border-radius: 11px;
+}
+
+.drag-el {
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 15px;
+}
+.drdr{
+    display:flex;
+    justify-content: space-around;
+}
+.formZa{
+    border: 2px solid #958bffb8;
+    padding: 10px;
+    border-radius: 20px;
+    background-color: #e9f2ff;
+    margin: 15px;
+}
